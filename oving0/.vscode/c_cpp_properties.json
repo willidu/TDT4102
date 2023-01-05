@@ -1,0 +1,41 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/subprojects/animationwindow/include/**", 
+                "${workspaceFolder}/subprojects/SDL2_image-2.6.2/**", 
+                "${workspaceFolder}/subprojects/SDL2-2.26.0/include/**"],
+            "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "compilerPath": "C:\\mingw64\\bin\\clang",
+            "compileCommands": "builddir/compile_commands.json",
+            "intelliSenseMode": "windows-clang-x64"
+        },
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/subprojects/animationwindow/include/**",
+                "/opt/homebrew/Cellar/sdl2_image/2.6.2/include/SDL2/**",
+                "/opt/homebrew/Cellar/sdl2/2.26.0/include/SDL2/**"],
+            "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "compileCommands": "builddir/compile_commands.json",
+            "intelliSenseMode": "macos-clang-x64"
+        },
+        {
+            "name": "Linux",
+            "includePath": ["${workspaceFolder}/**"],
+            "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "compileCommands": "builddir/compile_commands.json",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
