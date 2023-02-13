@@ -1,0 +1,5 @@
+Oppgave 1a.
+Koden vil krive ut v0 = 5, siden den returnerte (inkerementerte) verdien ikke lagres i v0, men i result.
+
+Oppgave 2e.
+Feilen skyldes at utilities.h blir inkludert to ganger. Header fil trenger en pragma once eller ifndef.
