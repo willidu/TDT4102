@@ -62,3 +62,10 @@ handin.zip
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+.vscode/
+handin/
+subprojects/
+subprojects
+.DS_Store
+meson.build
