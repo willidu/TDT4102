@@ -74,7 +74,6 @@ void Blackjack::playGame() {
         std::cout << "Your hand: " << playerHand << "score " << playerHand.score() << std::endl;
         std::cout << '\n';
 
-
         if (playerHand.score() > 21) {
             break;
         } else if (realBlackjack(playerHand.cards)) {
