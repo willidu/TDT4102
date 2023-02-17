@@ -69,3 +69,4 @@ subprojects/
 subprojects
 .DS_Store
 meson.build
+builddir/
