@@ -1,0 +1,2 @@
+Dette er en tekstfil. I denne filen skal vi telle antall av hver 
+bokstav. Oooooooooooo.

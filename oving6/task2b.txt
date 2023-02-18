@@ -1,0 +1,3 @@
+Debuggeroppgave:
+    Får feil pga operator[].
+    Bytter ut cpaitalsMap[country] med capitalsMap.at(country)
