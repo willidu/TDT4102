@@ -1,0 +1,7 @@
+1a.
+public: medlemsvariabler og funksjoner som er tilgjengelig utenfor en instans av klassen
+private: -||- som kun er tilgjengelig inni instansen av klassen
+protected: Kan brukes inni klassen men også av andre klasser som arver fra klassen.
+
+1e.
+Ved å ta bort virtual blir alle sett på som en instans av Animal, og dermed blir Animal::toString() kalt.
