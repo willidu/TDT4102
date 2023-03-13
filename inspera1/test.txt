@@ -1,0 +1,8 @@
+Alexander Kielland,Car,1000,1234,Text missing!
+Bjoernstjerne Bjoernson,Travel,2000,1235,Text missing!
+Sigrid Undset,Contents,6000,1236,Text missing!
+Amalie Skram,Travel,2000,1237,Text missing!
+Henrik Ibsen,Contents,3000,1238,Text missing!
+AAdne Gaarborg,Contents,4000,1239,Text missing!
+Camilla Collett,Car,3000,1240,Text missing!
+Inger Hagerup,Car,3000,1241,Vedroerende en uforutsett egenandel utstedes fornyelsen innenfor rammen av aarsakssammenhengen  Gitt en kollektiv fornyelse omfattes oppsigelsen som en foelge av aarsakssammenhengen  Under hensyntagen til en erstatningsmessig fornyelse anvendes vilkaarene under forutsetning av oppgjoeret.  I lys av en plutselig fornyelse utstedes oppsigelsen under forutsetning av betingelsene  Under hensyntagen til en plutselig fornyelse iverksettes vilkaarene innenfor rammen av husstanden  Gitt en uforutsett forsikringstaker utstedes fornyelsen som en foelge av oppgjoeret.  I lys av en kollektiv risikovurdering omfattes oppsigelsen under forutsetning av aarsakssammenhengen  Under hensyntagen til en erstatningsmessig risikovurdering omfattes oppsigelsen under forutsetning av husstanden  Gitt en uforutsett fornyelse anvendes forsikringsbehovet innenfor rammen av aarsakssammenhengen  Vedroerende en kollektiv egenandel anvendes vilkaarene innenfor rammen av husstanden  
